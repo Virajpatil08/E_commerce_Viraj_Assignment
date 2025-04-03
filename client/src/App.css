@@ -1,0 +1,29 @@
+@import "tailwindcss";
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #0166ff;
+  margin: 0;
+  padding: 0;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.ant-card {
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-input,
+.ant-input-textarea {
+  border-radius: 8px;
+}
+
+.ant-btn-primary {
+  background-color: #1890ff;
+  border-radius: 8px;
+}
