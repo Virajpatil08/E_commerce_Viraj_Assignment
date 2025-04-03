@@ -2,6 +2,28 @@
 
 This Cart Application is a full-featured e-commerce shopping cart built using React.js, Tailwind CSS, and Formik with Yup for form validation. It integrates seamlessly with a backend API to place orders and manage cart items.
 
+🚀 Starting Instructions
+1]Frontend
+ 1)Navigate to the frontend directory:
+   cd client
+
+ 2)Install dependencies:
+   npm install
+
+ 3)Start the development server:
+   npm run dev
+
+2] Backend 
+
+ 1)Navigate to the backend directory:
+   cd server
+
+ 2)Install dependencies:
+   npm install
+
+ 3)Start the development server:
+  npm start
+
 Features
 
 Add/Remove items from the cart
